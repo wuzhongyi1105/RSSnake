@@ -1,2 +1,2 @@
 rsserpent==0.1.2
-rsserpent-plugin-caa @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-caa.git@c46d4a2c8f85f19fd27849b7c999a9d37f517d22
+rsserpent-plugin-caa @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-caa.git@208e748a0a5708b551f9219ca7030e6d57059be5
