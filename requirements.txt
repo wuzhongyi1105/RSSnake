@@ -1,3 +1,3 @@
 rsserpent==0.1.2
-rsserpent-plugin-caa @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-caa.git@3344cfbb141bc783b72e626b06dc3a7e0097aec9
+rsserpent-plugin-caa @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-caa.git@2b9392fec999578c1cb96a5bbf37774bd0152039
 beautifulsoup4
